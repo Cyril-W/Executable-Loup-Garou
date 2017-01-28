@@ -21,13 +21,16 @@ Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Ga
 Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.173 seconds
+- Completed reload, in  0.219 seconds
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
+UnloadTime: 1.939111 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 295c -> priority: 1 
 Initialize engine version: 5.5.0f3 (38b4efef76f0)
 GfxDevice: creating device client; threaded=1
 Direct3D:
@@ -57,436 +60,107 @@ Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Ga
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-UnloadTime: 2.041332 ms
 <RI> Initialized touch support.
-Initialize engine version: 5.5.0f3 (38b4efef76f0)
-GfxDevice: creating device client; threaded=1
-Direct3D:
-    Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
-    Vendor:   NVIDIA
-    VRAM:     2019 MB
-    Driver:   21.20.16.4550
-Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garettu\Loup-G arwu_Dater threaged\UnityEngine.dll (dhi for Enli is harmless)
-ghtenadin
-g C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.dll into Unity Child Domain
-  Thread -> id: 1c34 -> priority: 1 
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll (this message is harmless)
-Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.032 seconds
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.dll (this message is harmless)
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
-<RI> Initializing input.
-<RI> Input initialized.
-UnloadTime: 2.470665 ms
-<RI> Initialized touch support.
-/Launcher: OnConnectedToMaster() was called by PUN
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
+UnloadTime: 2.806666 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1928 -> priority: 1 
-UnloadTime: 3.535998 ms
-/Launcher: OnConnectedToMaster() was called by PUN
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1524 -> priority: 1 
-/Launcher: OnConnectedToMaster() was called by PUN
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Initialize engine version: 5.5.0f3 (38b4efef76f0)
-GfxDevice: creating device client; threaded=1
-Direct3D:
-    Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
-    Vendor:   NVIDIA
-    VRAM:     2019 MB
-    Driver:   21.20.16.4550
-Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll (this message is harmless)
-Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.044 seconds
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.dll (this message is harmless)
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
-<RI> Initializing input.
-<RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 3.245776 ms
-Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1498 -> priority: 1 
-/Launcher: OnConnectedToMaster() was called by PUN
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
+  Thread -> id: 2a68 -> priority: 1 
 Operation failed: OperationResponse 225: ReturnCode: 32760 (No match found). Parameters: {}
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-/Launcher:OnPhotonRandomJoinFailed() was called by PUN. No random room available, so we create one.
-Calling: PhotonNetwork.CreateRoom(null, new RoomOptions() {maxPlayers = 4}, null);
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.442666 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 610.
+Total: 0.489333 ms (FindLiveObjects: 0.035555 ms CreateObjectMapping: 0.024444 ms MarkObjects: 0.418222 ms  DeleteObjects: 0.010666 ms)
+
+Establishing Encryption
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-/Launcher: OnJoinedRoom() called by PUN. Now this client is in a room.
+Establishing Encryption
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.991554 ms
+UnloadTime: 1.776444 ms
 
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 527.
-Total: 1.176888 ms (FindLiveObjects: 0.087555 ms CreateObjectMapping: 0.021777 ms MarkObjects: 1.031555 ms  DeleteObjects: 0.034666 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 610.
+Total: 0.580444 ms (FindLiveObjects: 0.039555 ms CreateObjectMapping: 0.029777 ms MarkObjects: 0.495555 ms  DeleteObjects: 0.015111 ms)
 
-We are Instantiating LocalPlayer from Main
+Establishing Encryption
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-OnPhotonPlayerConnected() Georges 
+Establishing Encryption
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-OnPhotonPlayerConnected isMasterClient True
+Disconnected: None
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.180441 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.248000 ms
 
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 527.
-Total: 0.764888 ms (FindLiveObjects: 0.093777 ms CreateObjectMapping: 0.035999 ms MarkObjects: 0.622221 ms  DeleteObjects: 0.011555 ms)
-
-We are Instantiating LocalPlayer from Main
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerConnected() Cyril 
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cOp Phone: 51)yerConnecte
-
-) Cyril 
- 
-(Filename: C:/buildslave/unity/build/artifacts/geOerPhoetonPmmonlayerConne/Deected isMasterClient Tre: 5
-1
-)
-
-lename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.719110 ms
-
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 527.
-Total: 0.435110 ms (FindLiveObjects: 0.036888 ms CreateObjectMapping: 0.020444 ms MarkObjects: 0.366222 ms  DeleteObjects: 0.011111 ms)
-
-We are Instantiating LocalPlayer from Main
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayOrnPnnneoted() SwhotonPlayerCanaec 
- 
-d(F ilena 
-e:onnected() Swa:/b
-il
-(slaieea/an:ttC:acts/gelavr/aent/commei/rdn/aitmfoDtb/ngBirainbs.Benmonpnps giuntim51/iD
-e
-: 51)
-
-dings.gen.cpp Line: 51)
-
-OnPhotonPlayerConnected isMasterClient True
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.625332 ms
-
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 527.
-Total: 0.444444 ms (FindLiveObjects: 0.035999 ms CreateObjectMapping: 0.017333 ms MarkObjects: 0.378666 ms  DeleteObjects: 0.011555 ms)
-
-We are Instantiating LocalPlayer from Main
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerDisconnected() Georges 
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerDisconnected isMasterClient True
- 
-(Filename: C:/buildslave/unity/build/artifacts/generateU/nloadinrg 2 Unusebd Bindings.gen.lesp(Se Line: 51)
-
-les now loaded: 0)
-OnPhotonPlayerDisconnected() Georges 
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerDisconnected() Georges 
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-UnloadTime: 0.814221 ms
-
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 511.
-Total: 1.407554 ms (FindLiveObjects: 0.093777 ms CreateObjectMapping: 0.026666 ms MarkObjects: 1.052443 ms  DeleteObjects: 0.233333 ms)
-
-/Launcher: OnConnectedToMaster() was called by PUN
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 517.
+Total: 0.741333 ms (FindLiveObjects: 0.038222 ms CreateObjectMapping: 0.039111 ms MarkObjects: 0.529777 ms  DeleteObjects: 0.133333 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-OnPhotonPlayerConnected() Georges
+UnloadTime: 0.359111 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 642.
+Total: 0.675555 ms (FindLiveObjects: 0.040888 ms CreateObjectMapping: 0.029777 ms MarkObjects: 0.594666 ms  DeleteObjects: 0.010222 ms)
+
+Establishing Encryption
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-OnPhotonPlayerConnected() GeoOgePhot
- 
-(Fioename:yerConnecdslavd isMaste/builid/artifac
-ts
-(/generat:edC:/build/lavntimeity/buugld/irtifacts/en.cerp Line: 51)
-
-runtime/DebugBindings.gen.Opp Linen Play
-e
-rConnected() Georges
+Establishing Encryption
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-UnloadTime: 0.349333 ms
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 556.
-Total: 0.620444 ms (FindLiveObjects: 0.098222 ms CreateObjectMapping: 0.028888 ms MarkObjects: 0.481333 ms  DeleteObjects: 0.011555 ms)
-
-We are Instantiating LocalPlayer from Main
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerDisconnected() Michael
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerDisconnected() Michael
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerDisconnected() Michael
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerDisconnected isMasterClient True
+Disconnected: None
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.Component:get_gameObject ()
-  at Com.Cyril_WIRTZ.Loup_Garou.VoteManager.RemovePlayerForVote (Int32 playerID) [0x00000] in <filename unknown>:0 
-  at Com.Cyril_WIRTZ.Loup_Garou.GameManager.OnPhotonPlayerDisconnected (.PhotonPlayer other) [0x00000] in <filename unknown>:0 
-UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
-NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[])
-NetworkingPeer:HandleEventLeave(Int32, EventData)
-NetworkingPeer:OnEvent(EventData)
-ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
-ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
-ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
-PhotonHandler:Update()
- 
-(Filename:  Line: -1)
+UnloadTime: 0.624000 ms
 
-UnloadTime: 1.611554 ms
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 514.
-Total: 6.715552 ms (FindLiveObjects: 0.169333 ms CreateObjectMapping: 0.039999 ms MarkObjects: 6.337330 ms  DeleteObjects: 0.163999 ms)
-
-/Launcher: OnConnectedToMaster() was called by PUN
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerDisconnected() Georges
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerDisconnected isMasterClient True
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerDisconnected() Georges
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.940443 ms
-
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 511.
-Total: 1.803999 ms (FindLiveObjects: 0.050666 ms CreateObjectMapping: 0.023111 ms MarkObjects: 1.377332 ms  DeleteObjects: 0.351999 ms)
-
-/Launcher: OnConnectedToMaster() was called by PUN
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerConnected() Georges
- 
-(Filename: C:/buildslave/unity/build/artifacts/generatOd/comoontrunnPtaymre/DeeugBindings.gen.gep
- 
-(Filename
-
-:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerConnected isMasterClient True
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 517.
+Total: 0.577333 ms (FindLiveObjects: 0.032000 ms CreateObjectMapping: 0.018222 ms MarkObjects: 0.449777 ms  DeleteObjects: 0.076888 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.413777 ms
+UnloadTime: 0.360888 ms
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 559.
-Total: 2.094665 ms (FindLiveObjects: 0.180444 ms CreateObjectMapping: 0.066666 ms MarkObjects: 1.810221 ms  DeleteObjects: 0.035111 ms)
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 642.
+Total: 0.951111 ms (FindLiveObjects: 0.039111 ms CreateObjectMapping: 0.112000 ms MarkObjects: 0.790222 ms  DeleteObjects: 0.009777 ms)
 
-We are Instantiating LocalPlayer from Main
+Establishing Encryption
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-OnPhotonPlayerDisconnected() Georges
+Establishing Encryption
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-OnPhotonPlayerDisconnected isMasterClient True
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerDisconnected() nloading 2 Unused Serialized files (Serialized files now lraded: 0)
-ges
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-UnloadTime: 2.346665 ms
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 514.
-Total: 1.456443 ms (FindLiveObjects: 0.038222 ms CreateObjectMapping: 0.021333 ms MarkObjects: 1.061777 ms  DeleteObjects: 0.334222 ms)
-
-/Launcher: OnConnectedToMaster() was called by PUN
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerDisconnected() Swaan 
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerDisconnected isMasterClient True
+Disconnected: None
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.698221 ms
+UnloadTime: 0.742666 ms
 
-Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 511.
-Total: 0.726221 ms (FindLiveObjects: 0.051999 ms CreateObjectMapping: 0.022666 ms MarkObjects: 0.524444 ms  DeleteObjects: 0.126666 ms)
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 516.
+Total: 1.068444 ms (FindLiveObjects: 0.126666 ms CreateObjectMapping: 0.030222 ms MarkObjects: 0.812000 ms  DeleteObjects: 0.098666 ms)
 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.975999 ms
-
-Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 514.
-Total: 2.099999 ms (FindLiveObjects: 0.149777 ms CreateObjectMapping: 0.094666 ms MarkObjects: 1.519110 ms  DeleteObjects: 0.331555 ms)
-
-/Launcher: OnConnectedToMaster() was called by PUN
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-/Launcher: OnConnectedToMaster() was called by PUN
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Operation failed: OperationResponse 225: ReturnCode: 32760 (No match found). Parameters: {}
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-/Launcher:OnPhotonRandomJoinFailed() was called by PUN. No random room available, so we create one.
-Calling: PhotonNetwork.CreateRoom(null, new RoomOptions() {maxPlayers = 4}, null);
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-/Launcher: OnJoinedRoom() called by PUN. Now this client is in a room.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.049332 ms
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 556.
-Total: 0.433777 ms (FindLiveObjects: 0.045333 ms CreateObjectMapping: 0.024888 ms MarkObjects: 0.354222 ms  DeleteObjects: 0.008888 ms)
-
-We are Instantiating LocalPlayer from Main
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerConnected() Georges
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnPhotonPlayerConnected isMasterClient True
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.329777 ms
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 559.
-Total: 0.625777 ms (FindLiveObjects: 0.072888 ms CreateObjectMapping: 0.023999 ms MarkObjects: 0.515110 ms  DeleteObjects: 0.013333 ms)
-
-We are Instantiating LocalPlayer from Main
+Disconnected: None
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-OnPhotonPlayerDisconnected() Georges
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+UnloadTime: 0.924888 ms
 
-OnPhotonPlayerDisconnected isMasterClient True
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-UnloadTime: 0.965777 ms
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 514.
-Total: 2.080887 ms (FindLiveObjects: 0.041333 ms CreateObjectMapping: 0.020444 ms MarkObjects: 1.739554 ms  DeleteObjects: 0.279555 ms)
-
-/Launcher: OnConnectedToMaster() was called by PUN
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.409777 ms
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 514.
-Total: 2.316887 ms (FindLiveObjects: 0.175555 ms CreateObjectMapping: 0.037333 ms MarkObjects: 1.795554 ms  DeleteObjects: 0.306222 ms)
-
-/Launcher: OnConnectedToMaster() was called by PUN
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 516.
+Total: 0.736444 ms (FindLiveObjects: 0.033333 ms CreateObjectMapping: 0.034222 ms MarkObjects: 0.537333 ms  DeleteObjects: 0.130222 ms)
 
