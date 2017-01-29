@@ -21,16 +21,16 @@ Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Ga
 Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.219 seconds
+- Completed reload, in  0.178 seconds
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.939111 ms
+UnloadTime: 1.943111 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 295c -> priority: 1 
+  Thread -> id: 1a10 -> priority: 1 
 Initialize engine version: 5.5.0f3 (38b4efef76f0)
 GfxDevice: creating device client; threaded=1
 Direct3D:
@@ -54,45 +54,72 @@ Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Ga
 Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.030 seconds
+- Completed reload, in  0.031 seconds
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.806666 ms
+UnloadTime: 2.438666 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2a68 -> priority: 1 
+  Thread -> id: 28a4 -> priority: 1 
+Establishing Encryption
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Establishing Encryption
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Establishing Encryption
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Establishing Encryption
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
 Operation failed: OperationResponse 225: ReturnCode: 32760 (No match found). Parameters: {}
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.442666 ms
+UnloadTime: 1.722222 ms
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 610.
-Total: 0.489333 ms (FindLiveObjects: 0.035555 ms CreateObjectMapping: 0.024444 ms MarkObjects: 0.418222 ms  DeleteObjects: 0.010666 ms)
-
-Establishing Encryption
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Establishing Encryption
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+Unloading 88 unused Assets to reduce memory usage. Loaded Objects now: 559.
+Total: 1.533777 ms (FindLiveObjects: 0.149333 ms CreateObjectMapping: 0.056444 ms MarkObjects: 1.208444 ms  DeleteObjects: 0.117333 ms)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.776444 ms
+UnloadTime: 1.792444 ms
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 610.
-Total: 0.580444 ms (FindLiveObjects: 0.039555 ms CreateObjectMapping: 0.029777 ms MarkObjects: 0.495555 ms  DeleteObjects: 0.015111 ms)
+Unloading 88 unused Assets to reduce memory usage. Loaded Objects now: 559.
+Total: 0.576000 ms (FindLiveObjects: 0.084888 ms CreateObjectMapping: 0.044000 ms MarkObjects: 0.400000 ms  DeleteObjects: 0.046666 ms)
 
-Establishing Encryption
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+Unloading 6 Unused SUrinliled files (Snerialized fiiles nows  Seoaredal:zed) 
+files now loaded: 0)
+UnlladTiTie: 0.6288me: s
+.600000 ms
 
-Establishing Encryption
+UnUondload7ing 7 unusedtsAssets edu re mem ory ry usageg Loaded ObjOectst noww 7 35.
+
+Tootal: 00.59888 msms F(FindLiOveObjsec0.060.074 ms ms CreatejObjectMainpp 0ng: 7111 ms Mar0O.j0262220.5 50666 Ms arklOteOjects:  0.5146688 ms)
+
+leteObjects: 0.012444 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.638666 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 694.
+Total: 0.928000 ms (FindLiveObjects: 0.093777 ms CreateObjectMapping: 0.036000 ms MarkObjects: 0.690222 ms  DeleteObjects: 0.107111 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.039555 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 695.
+Total: 0.862222 ms (FindLiveObjects: 0.054222 ms CreateObjectMapping: 0.030222 ms MarkObjects: 0.642666 ms  DeleteObjects: 0.134666 ms)
+
+You left the game on global channel
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -100,67 +127,11 @@ Disconnected: None
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.248000 ms
-
-Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 517.
-Total: 0.741333 ms (FindLiveObjects: 0.038222 ms CreateObjectMapping: 0.039111 ms MarkObjects: 0.529777 ms  DeleteObjects: 0.133333 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.359111 ms
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 642.
-Total: 0.675555 ms (FindLiveObjects: 0.040888 ms CreateObjectMapping: 0.029777 ms MarkObjects: 0.594666 ms  DeleteObjects: 0.010222 ms)
-
-Establishing Encryption
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Establishing Encryption
+You left the game on global channel
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Disconnected: None
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.624000 ms
-
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 517.
-Total: 0.577333 ms (FindLiveObjects: 0.032000 ms CreateObjectMapping: 0.018222 ms MarkObjects: 0.449777 ms  DeleteObjects: 0.076888 ms)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.360888 ms
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 642.
-Total: 0.951111 ms (FindLiveObjects: 0.039111 ms CreateObjectMapping: 0.112000 ms MarkObjects: 0.790222 ms  DeleteObjects: 0.009777 ms)
-
-Establishing Encryption
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Establishing Encryption
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Disconnected: None
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.742666 ms
-
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 516.
-Total: 1.068444 ms (FindLiveObjects: 0.126666 ms CreateObjectMapping: 0.030222 ms MarkObjects: 0.812000 ms  DeleteObjects: 0.098666 ms)
-
-Disconnected: None
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.924888 ms
-
-Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 516.
-Total: 0.736444 ms (FindLiveObjects: 0.033333 ms CreateObjectMapping: 0.034222 ms MarkObjects: 0.537333 ms  DeleteObjects: 0.130222 ms)
 
