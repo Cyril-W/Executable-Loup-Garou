@@ -21,7 +21,7 @@ Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Ga
 Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.305 seconds
+- Completed reload, in  0.198 seconds
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
