@@ -21,9 +21,45 @@ Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Ga
 Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.198 seconds
+- Completed reload, in  0.035 seconds
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.405776 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 18fc -> priority: 1 
+Establishing Encryption
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Establishing Encryption
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Operation failed: OperationResponse 225: ReturnCode: 32760 (No match found). Parameters: {}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.710220 ms
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 961.
+Total: 0.828443 ms (FindLiveObjects: 0.064444 ms CreateObjectMapping: 0.035111 ms MarkObjects: 0.679110 ms  DeleteObjects: 0.048888 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.945776 ms
+
+Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 698.
+Total: 0.809332 ms (FindLiveObjects: 0.055999 ms CreateObjectMapping: 0.035555 ms MarkObjects: 0.589332 ms  DeleteObjects: 0.127999 ms)
+
+You left the game on global channel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected: None
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
