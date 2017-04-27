@@ -21,16 +21,82 @@ Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Ga
 Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.035 seconds
+- Completed reload, in  0.158 seconds
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.405776 ms
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 1.968888 ms
+<RI> Initialized touch support.
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\cyril\Documents\GitHub\Executable Loup Garou\Loup-Garou_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 2.181333 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 18fc -> priority: 1 
+  Thread -> id: 36ec -> priority: 1 
+<RI> Initialized touch support.
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1524 -> priority: 1 
+UnloadTime: 2.080000 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1a18 -> priority: 1 
 Establishing Encryption
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -44,18 +110,1847 @@ Operation failed: OperationResponse 225: ReturnCode: 32760 (No match found). Par
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.710220 ms
+UnloadTime: 1.365777 ms
 
-Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 961.
-Total: 0.828443 ms (FindLiveObjects: 0.064444 ms CreateObjectMapping: 0.035111 ms MarkObjects: 0.679110 ms  DeleteObjects: 0.048888 ms)
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 1334.
+Total: 1.277333 ms (FindLiveObjects: 0.071111 ms CreateObjectMapping: 0.040888 ms MarkObjects: 0.739555 ms  DeleteObjects: 0.424000 ms)
 
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.945776 ms
+Establishing Encryption
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 698.
-Total: 0.809332 ms (FindLiveObjects: 0.055999 ms CreateObjectMapping: 0.035555 ms MarkObjects: 0.589332 ms  DeleteObjects: 0.127999 ms)
+Establishing Encryption
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-You left the game on global channel
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.736888 ms
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 1330.
+Total: 1.296000 ms (FindLiveObjects: 0.108444 ms CreateObjectMapping: 0.043111 ms MarkObjects: 0.659111 ms  DeleteObjects: 0.485333 ms)
+
+Establishing Encryption
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Establishing Encryption
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.615555 ms
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 1330.
+Total: 1.377777 ms (FindLiveObjects: 0.074222 ms CreateObjectMapping: 0.053777 ms MarkObjects: 0.800000 ms  DeleteObjects: 0.449333 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.189333 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 6249.
+Total: 7.145777 ms (FindLiveObjects: 0.316000 ms CreateObjectMapping: 0.151555 ms MarkObjects: 2.756000 ms  DeleteObjects: 3.921333 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.153777 ms
+UnloadTime: 2.200888 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 6245.
+Total: 9.160000 ms (FindLiveObjects: 0.352888 ms CreateObjectMapping: 0.158666 ms MarkObjects: 3.486222 ms  DeleteObjects: 5.161777 ms)
+
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 6245.
+Total: 8.986666 ms (FindLiveObjects: 0.322666 ms CreateObjectMapping: 0.158222 ms MarkObjects: 3.328000 ms  DeleteObjects: 5.176888 ms)
+
+PlayerAnimatorManager is Missing Animator Component
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.878222 ms
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 2197.
+Total: 3.500888 ms (FindLiveObjects: 0.186222 ms CreateObjectMapping: 0.081333 ms MarkObjects: 1.156444 ms  DeleteObjects: 2.075111 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.336000 ms
+UnloadTime: 8.850223 ms
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 2195.
+Total: 3.188888 ms (FindLiveObjects: 0.134222 ms CreateObjectMapping: 0.055555 ms MarkObjects: 1.051555 ms  DeleteObjects: 1.947111 ms)
+
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 2195.
+Total: 3.210666 ms (FindLiveObjects: 0.132000 ms CreateObjectMapping: 0.064444 ms MarkObjects: 1.163555 ms  DeleteObjects: 1.850222 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.504444 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 6284.
+Total: 7.444888 ms (FindLiveObjects: 0.366666 ms CreateObjectMapping: 0.150222 ms MarkObjects: 2.884000 ms  DeleteObjects: 4.043555 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received OnSerialization for view ID 1. We have no such PhotonView! Ignored this if you're leaving a room. State: Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received OnSerialization for view ID 1R Wecehiaeve no such Phzation for view INoD ullRethave no suchIgno PExthis if coIp'teoel:avinject ref.r'nte no tiose ned
+ a
+(. lnntanc C o/ edu
+ i
+(odslejvame:
+ /at uom/suavl/WnItRfbZ.Llgea_rtiroda.ommHo/ruMtndge/Dmbud/Biunwimge.gebucpp0xLine0 einnc<
+
+filenam5 unn
+own>:0 
+  at Com.Cyril_WIRTZ.Loup_GRroceived OnSeager.Update () [0x00000] in <filerame unaliza>:0 
+ 
+tFiion for view ID 2).
+ 
+We have no such PhotonView! Ignored this if you're leaving a room. SullRefeJeoinexc
+e
+(iFilenaject r:/ference not set to an d/artifacts/generated/c
+ omm Com.Cyril_WIRTZ.LoudinGgs.gen.cpp Line: 51)
+
+teOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimaU objaect for 1.8608838 ms h
+as not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 3.149777 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 6280.
+Total: 7.817777 ms (FindLiveObjects: 0.379111 ms CreateObjectMapping: 0.148000 ms MarkObjects: 3.725333 ms  DeleteObjects: 3.564888 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x0N00ll0] fn <filenamerenceExce:p 
+ oan: Objecril_WIRTZ.Loup_GaroutHouseManstager.Update (j ect
+  at Com.Cyriln_WIRTZ.Loun_Garo 
+ H
+(oiuseMana er.Upe: -1)
+
+rInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.LEupr_Garou.HouseManageb.Update () [0x0r29336  has not been found!
+ :0
+ F
+ 
+(Fiaeme: C:/buildslave
+/
+unity/build/artifacts/generated/common/runtime/DebuNBindReferenceException: 51)
+
+t reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 6280.
+Total: 8.660889 ms (FindLiveObjects: 0.314666 ms CreateObjectMapping: 0.223555 ms MarkObjects: 3.974222 ms  DeleteObjects: 4.147555 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullRefeulrReeerenceException:cObEect ption: Obrefe erce not nset nto an i to an instance bject
+n objeCom
+yril_WIRTm.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x000n0] in <filename u
+nknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garager.ouseManager.Update () [0x00000] in <fowlename 
+un
+known>:me:
+  
+(Filename: 
+ 
+Line: -1)
+E
+rror: the minimap object foError: the minimap object for Joueu
+r1
+3423  hae: C: builds fave/un
+i
+(Filename: Cifacts/generated/common/runtime/DebugBindings.gen.cpp Line:i e/De51)
+
+ndings.geno.:cpp Line: 51)
+
+ject for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an NbjllReferenceException: Object reference not set to an instance of an object
+ eatt
+ om.Cyril_WIRTZ.Loup_Garou_WIRTZ.Laup_Garrou.aHouseManago () [0p00000] in <rfilename unknow0>:0 
+  at Com.Cyriln_WIRTZ.Lo
+up_Garou.Horil_anager.Update () .HouseM00] ie r.Update () [0x000:0 
+] 
+in <filena e Line: -1)
+
+
+ 
+(Filename:  Line: -Err
+o
+r: the miError : the minimapoue object  has not beur2 fo36  ha
+s
+(Fiot beee found!
+ l
+dsllvename: C:/buildslave/unity/build/aromifactuntime/DebugBindings.mem.cpp Line: 51)
+
+on/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been Nould!Ref
+er
+enceExamep: on::Object uiledslaveno/t ity/bu an ainstance/genean object
+  atr Cntime/Del_WIRTZ.Loup_Garocpp Line:a a51)
+
+pdateOwneError:() [ex0 00ni in ofbject e unknowe>:0 
+34 at Coas not beeIRTZ.Lod!p_
+Ga
+rou.House: C:/ger.Upsdavee () [0x00000] in <filename unknown>:0o 
+ 
+(FilenDme:  Line: -1)
+
+Error: the mebugBinnimap object for.goen.cpp3 Linhes 51)
+ 
+not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename uNknownR:0 
+ 
+(Filename:  Lene:re-1)
+
+nceException: Object referError: thse min an instance of an ouejr2933
+6  at Cnot been found!
+ 
+(Filename: C:/buildslave/unity/build/aotifacts/generated/common/runtime/DebugBl_WIings.gen.cpp Line: 51)
+
+ger.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.Nenl.Rcpferencp Line: 51)
+
+bject reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur13423  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.UpdateOwnerInfo () [0x00000] in <filename unknown>:0 
+  at Com.Cyril_WIRTZ.Loup_Garou.HouseManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Error: the minimap object for Joueur29336  has not been found!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerAnimatorManager is Missing Animator Component
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You left the game on villager channel
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -63,3 +1958,27 @@ Disconnected: None
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.701777 ms
+
+Unloading 149 unused Assets to reduce memory usage. Loaded Objects now: 1526.
+Total: 4.418666 ms (FindLiveObjects: 0.103111 ms CreateObjectMapping: 0.064000 ms MarkObjects: 0.896000 ms  DeleteObjects: 3.355111 ms)
+
+You left the game on villager channel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected: None
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 7.494222 ms
+You left the game on villager channel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected: None
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 9.131556 ms
